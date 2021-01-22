@@ -3,4 +3,4 @@ server:
 spring: 
   profiles: test
   application: 
-    name: springcloud-config-client-test-3366
+    name: springcloud-config-client
